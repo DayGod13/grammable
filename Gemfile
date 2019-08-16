@@ -74,3 +74,5 @@ gem 'popper_js', '~> 1.14.5'
 gem 'simple_form'
 
 gem 'devise'
+
+gem 'factory_bot_rails'
